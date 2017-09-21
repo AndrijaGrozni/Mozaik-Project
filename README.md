@@ -1,4 +1,4 @@
 # Mozaik-Project
 MOZAIK Jewish community hub project
 
-PSD to HTML 
+PSD to HTML website build
